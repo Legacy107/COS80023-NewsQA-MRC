@@ -1,0 +1,3 @@
+[submodule "inference-application"]
+	path = inference-application
+	url = https://huggingface.co/spaces/legacy107/flan-t5-large-ia3-newsqa
