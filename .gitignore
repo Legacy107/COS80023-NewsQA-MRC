@@ -166,3 +166,5 @@ cython_debug/
 
 # data
 data/
+wikipedia/
+analysis/predicted_result.csv
